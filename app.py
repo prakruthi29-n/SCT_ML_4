@@ -8,6 +8,7 @@ except:
 import mediapipe as mp
 
 mp_hands = mp.solutions.hands
+from mediapipe.python.solutions import hands
 from mediapipe.python.solutions import drawing_utils as mp_draw
 import numpy as np
 import joblib
