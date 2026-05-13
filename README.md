@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖐 Hand Gesture Recognition System
 
 A professional real-time Hand Gesture Recognition System developed using Machine Learning, OpenCV, MediaPipe, and Streamlit as part of the SkillCraft Technology Machine Learning Internship.
@@ -127,3 +128,6 @@ https://github.com/Saikishorep15/SCT_ML_4
 # 📌 Internship Task
 
 Task 4 — Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data.
+=======
+# SCT_ML_4
+>>>>>>> 514654f4f79767b627174f9999c02b8d8217b389
